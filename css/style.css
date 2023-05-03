@@ -30,3 +30,15 @@
     --spacing-xlarge: 40px;
   
   }
+
+
+body {
+  font-family: 'Open Sans', Arial, Helvetica, 'Ubuntu', sans-serif;
+  font-size: 16px;
+  background-color: var(--color-interface-light);
+}
+
+
+
+
+
