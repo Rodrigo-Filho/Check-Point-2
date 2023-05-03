@@ -45,6 +45,7 @@ h5,
 h6 {
   font-weight: normal;
 }
+
 header {
   padding-top: var(--spacing-medium);
   padding-bottom: var(--spacing-medium);
@@ -53,6 +54,24 @@ header {
 .header-item {
   display: flex;
   justify-content: space-between;
+}
+.button {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.title {
+  line-height: 1.5;
+  letter-spacing: -1px;
+  font-weight: 300;
+  color: var(--color-text-light);
+}
+
+.subtitle {
+  line-height: 1.2;
+  font-weight: 700;
+  color: var(--color-brand-primary);
 }
 
 
