@@ -73,6 +73,7 @@ header {
   font-weight: 700;
   color: var(--color-brand-primary);
 }
+
 .container {
   width: 94%;
   margin-left: auto;
@@ -84,5 +85,10 @@ header {
   height: 35px;
   border-radius: 50%;
 }
+
+.form-task {
+  margin-top: var(--spacing-large);
+}
+
 
 
