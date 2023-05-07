@@ -66,6 +66,7 @@ header {
   letter-spacing: -1px;
   font-weight: 300;
   color: var(--color-text-light);
+  font-size: 1.8em; 
 }
 
 .subtitle {
@@ -89,6 +90,16 @@ header {
 .form-task {
   margin-top: var(--spacing-large);
 }
+
+.form-task-label {
+  width: 90px;
+  color: #708aa1;
+
+}
+
+
+
+
 
 
 
