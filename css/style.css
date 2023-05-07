@@ -94,8 +94,12 @@ header {
 .form-task-label {
   width: 90px;
   color: #708aa1;
-
 }
+.add {
+  display: flex;
+  width: auto;
+}
+
 
 
 
