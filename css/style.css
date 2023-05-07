@@ -99,6 +99,19 @@ header {
   display: flex;
   width: auto;
 }
+/*Caixa de texto*/
+.form-task-input {
+  display: block;
+  padding: 10px;
+  width: 70%;
+}
+/*Botão add*/
+.form-task-button {  
+  display: flex;
+  background-color:#ff455b;
+  padding: 10px;
+  border: #ff455b;
+}
 
 
 
