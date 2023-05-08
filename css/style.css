@@ -94,6 +94,7 @@ header {
 .form-task-label {
   width: 90px;
   color: #708aa1;
+  font-weight: bold;
 }
 .add {
   display: flex;
@@ -157,6 +158,20 @@ box-border
   background-color: transparent;
   cursor: pointer;
   padding-left: 5px;
+}
+@media (min-width: 768px) and (max-width:1440px) {
+  body {
+    font-size: 32px;
+  }
+  .form-task-label {
+    width: 30vw;
+  }
+  .form-task-input {
+    width: 90vw;
+  }
+  .avatar {
+    max-width: 100%;
+  }
 }
 
 
