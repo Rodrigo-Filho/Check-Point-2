@@ -110,8 +110,55 @@ header {
   display: flex;
   background-color:#ff455b;
   padding: 10px;
-  border: #ff455b;
+  border: #ff455f;
 }
+.container-box {
+  display: block;
+  padding: 12px;
+  justify-content: end;
+  padding-top: 160px;
+}
+.first-checkbox {
+display: flex;
+margin: 0 5px 0 5px;
+border: solid 1px #ff455b;
+padding: 2px 5px 0 5px;
+}
+.first-checkbox p{
+  font-size: 12px;
+  padding: 5px;
+  font-weight: bold;
+}
+/*box-border
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ min-width: var(--chipsbar_chip-width);*/
+ .second-checkbox {
+  display: flex;
+  margin: 0 5px 0 5px;
+  border: solid 1px #ff455b;
+  padding: 2px 5px 0 5px;
+}
+.second-checkbox p{
+  font-size: 12px;
+  padding: 5px 0 0 5px;
+  font-weight: bold;
+}
+.button-edit {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  margin-left: auto;
+}
+.button-delete {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  padding-left: 5px;
+}
+
+
 
 
 
