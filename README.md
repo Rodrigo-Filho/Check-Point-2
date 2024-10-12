@@ -1,2 +1,2 @@
-# Check-Point-2
-Progresso do CP2
+# Check-Point-2 Web
+Tarefa inicial a tecnologias relacionadas a Responsive Web Development utilizando HTML e CSS
